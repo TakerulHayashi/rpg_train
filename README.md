@@ -1,1 +1,1 @@
-GOKU
+Rpg basic functions: 
